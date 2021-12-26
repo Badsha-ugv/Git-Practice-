@@ -2,3 +2,5 @@ first of all initialize the git directory cmd -> git init
 all the changed file are transfer to stage are cmd -> git add .
 stage are to git repo cmd -> git commit -m "message here"
 show all the changes history cmd -> git log
+show user name cmd -> git config --global user.name
+show user email cmd -> git config --global user.email
