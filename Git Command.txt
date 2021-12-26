@@ -4,3 +4,5 @@ stage are to git repo cmd -> git commit -m "message here"
 show all the changes history cmd -> git log
 show user name cmd -> git config --global user.name
 show user email cmd -> git config --global user.email
+add ssh key to git account :) 
+push all the commit to git repository cmd -> git push -u origin master
