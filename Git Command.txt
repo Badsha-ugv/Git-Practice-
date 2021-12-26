@@ -6,3 +6,4 @@ show user name cmd -> git config --global user.name
 show user email cmd -> git config --global user.email
 add ssh key to git account :) 
 push all the commit to git repository cmd -> git push -u origin master
+this line I commit from git repo :) 
